@@ -5,5 +5,5 @@
 
 
 //Para o javascript encontrar o id
-//documento procura um id que tem um elemento titulo, e altera o html para 
+//documento procura um id que tem um elemento titulo, e altera o html para novo título
 document.querySelector('#titulo').innerHTML = 'Novo título'

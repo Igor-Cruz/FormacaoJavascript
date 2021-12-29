@@ -1,0 +1,1 @@
+document.querySelector('#SS').src = 'Super_Saiyan3.png'
