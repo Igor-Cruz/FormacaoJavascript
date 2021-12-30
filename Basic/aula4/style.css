@@ -1,0 +1,26 @@
+.menuMobile{
+  position: absolute;
+  top: 0;
+  right:-100%;
+  width: 120px;
+  height: 100vh;
+  background-color: chartreuse;
+  color: gray;
+  transition: 800ms ease;
+}
+
+.menuMobile.aberto{
+  right: 0%;
+}
+
+img{
+  height: 20px;
+  
+}
+
+.botaoMenu{
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
